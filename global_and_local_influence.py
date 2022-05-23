@@ -66,7 +66,6 @@ KshellVal_df
 
 k_shell_list = KshellVal_df['kshell'].tolist()
 
-#k_shell_list = [3,3,3,3,2,1,2,2,1,1,1,1,1]
 
 
 nodes_distances = vals.tolist()
