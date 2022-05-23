@@ -13,7 +13,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 """spatial proximity threshold setting
-if the proximity between two user is below or less than the 2km means uers are in contact.
+if the proximity between two user is below or less than the 2km means users are in contact.
 
 FORMATING ABOVE ROWS AND COLUMNS INTO MATRIX FORMAT
 """
