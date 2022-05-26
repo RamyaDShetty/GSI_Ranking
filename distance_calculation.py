@@ -14,6 +14,7 @@ drive.mount('/content/drive')
 
 """spatial proximity threshold setting
 if the proximity between two user is less than the 1km means users are in contact.
+#distance_bihar.csv is the file obtained from the haversine.py
 
 FORMATING ABOVE ROWS AND COLUMNS INTO MATRIX FORMAT
 """
