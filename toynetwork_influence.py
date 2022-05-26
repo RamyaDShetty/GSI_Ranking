@@ -25,7 +25,7 @@ hist = nx.classes.function.degree_histogram(G1)
 print(hist)
 
 KshellVal_df = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/First_Work/Toydata_MyAlgoithm/kshellValuesToydata.csv")
-
+#kshell values of the nodes needs to be calculated 
 KshellVal_df
 
 list1 = KshellVal_df['Node_number'].tolist()
